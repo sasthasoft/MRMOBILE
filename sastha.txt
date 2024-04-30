@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Jewelry Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Jewelry Store</h1>
+        <!-- Navigation Links -->
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <section id="main-content">
+        <!-- Featured Products -->
+        <div class="products">
+            <!-- Product Cards -->
+            <div class="product-card">
+                <img src="w.jpg" alt="Product 1">
+                <h2>Product Name</h2>
+                <p>Product Description</p>
+                <span>Rs.99.99</span>
+                <button>Add to Cart</button>
+            </div>
+            <!-- Repeat product cards for other products -->
+        </div>
+    </section>
+
+<!-- Main Content -->
+    <section id="main-content">
+        <!-- Featured Products -->
+        <div class="products">
+            <!-- Product Cards -->
+            <div class="product-card">
+                <img src="w.jpg" alt="Product 1">
+                <h2>Product Name</h2>
+                <p>Product Description</p>
+                <span>Rs.99.99</span>
+                <button>Add to Cart</button>
+            </div>
+            <!-- Repeat product cards for other products -->
+        </div>
+    </section>
+
+
+<!-- Main Content -->
+    <section id="main-content">
+        <!-- Featured Products -->
+        <div class="products">
+            <!-- Product Cards -->
+            <div class="product-card">
+                <img src="w.jpg" alt="Product 1">
+                <h2>Product Name</h2>
+                <p>Product Description</p>
+                <span>Rs.99.99</span>
+                <button>Add to Cart</button>
+            </div>
+            <!-- Repeat product cards for other products -->
+        </div>
+    </section>
+
+<!-- Main Content -->
+    <section id="main-content">
+        <!-- Featured Products -->
+        <div class="products">
+            <!-- Product Cards -->
+            <div class="product-card">
+                <img src="w.jpg" alt="Product 1">
+                <h2>Product Name</h2>
+                <p>Product Description</p>
+                <span>Rs.99.99</span>
+                <button>Add to Cart</button>
+            </div>
+            <!-- Repeat product cards for other products -->
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Jewelry Store. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
